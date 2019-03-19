@@ -7,9 +7,11 @@ I have decided its time to kick my career into overdrive and I believe the best 
 
 I have had a broad interest in I.T. since I was in my teens. Mainly for social, lifestyle and convenience purposes which has now evolved and become more focused as I now am beginning to realise the career progression opportunities that are presented by being fluent and well versed in more complex sides of I.T. I believe that RMIT presents a well rounded and surveyed syllabus that prepares youto be an ideal employee for the future. Equipped with a wide array of knowledge across many different forms of I.T. and the interpersonal skills required to be a success.
 
-During my studies I hope to not only learn more skill sets within the I.T. umbrella but also gain more insight as to who I want to be and work as, in the future. I want to gain more insight into careers in I.T., how to progress, learn must have skills and avoid those you can do without.
+During my studies I hope to not only learn more skill sets within the I.T. umbrella but also gain more insight as to who I want to be and work as, in the future. I want to gain more knowledge of careers in I.T., how to progress, learn must have skills and avoid those you can do without.
 
 ## Ideal Job
+
+I would like to use this degree as a stepping stone into a job within the data science realm. I find big data fascinating and have a passion for the insights it brings about the way people interact with the world around them. In order to achieve this I will need to excell in my current degree in order to be accepted into a masters of Data Science. I will be required to become well versed in programming languages such as R, Python and SQL. I will also be required to gain a deep understanding of machine learning and pattern recognition. all the while keeping my eye out for the next trend or technology of the future.
 
  
 
