@@ -1,6 +1,6 @@
 ## Ned Holland
 
-You can use the [editor on GitHub](https://github.com/hollandned/Clappback/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can see what I'm all about from [Neds Instagram Profile](https://instagram.com/hollandned) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
