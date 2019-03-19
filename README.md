@@ -11,13 +11,13 @@ During my studies I hope to not only learn more skill sets within the I.T. umbre
 
 ## Ideal Job
 
-I would like to use this degree as a stepping stone into a job within the data science realm. I find big data fascinating and have a passion for the insights it brings about the way people interact with the world around them. In order to achieve this I will need to excell in my current degree in order to be accepted into a masters of Data Science. I will be required to become well versed in programming languages such as R, Python and SQL. I will also be required to gain a deep understanding of machine learning and pattern recognition. all the while keeping my eye out for the next trend or technology of the future.
+I would like to use this degree as a stepping stone into a job within the data science realm. I find big data fascinating and have a passion for the insights it brings about the way people interact with the world around them. In order to achieve this I will need to excell in my current degree in order to be accepted into a masters of Data Science. I will be required to become well versed in programming languages such as R, Python and SQL. I will also be required to gain a deep understanding of machine learning and pattern recognition, all the while keeping my eye out for the next trend or technology of the future.
 
- 
+The following job is something I would look to work towards in the future [NAB Data Scientist] (https://www.seek.com.au/job/38605978?searchrequesttoken=270f4ed3-2a85-4176-b919-95c0481478f2&type=standout) 
 
 
 
-You can see what I'm all about from [Neds Instagram Profile](https://instagram.com/nedholland) 
+You can see more of what I'm all about from [Neds Instagram Profile](https://instagram.com/nedholland) 
 
 
 ### Markdown
