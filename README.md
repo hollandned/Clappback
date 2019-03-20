@@ -118,7 +118,7 @@ You can see more of what I'm all about from [Neds Instagram Profile](https://ins
 
 20180815_133259.jpg
 
-[Link](README.md) and ![Image]()
+[Link](README.md) and ![Image](20180815_133259.jpg)
 ```
 
 
