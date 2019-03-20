@@ -116,7 +116,7 @@ For our initial rollout we will be using a web based app developing tool. After 
 
 You can see more of what I'm all about from [Neds Instagram Profile](https://instagram.com/nedholland) 
 
-
+![image](https://user-images.githubusercontent.com/48714941/54688106-bfea5c00-4b68-11e9-8645-619ac4fdfb6d.png)
 
 
 
