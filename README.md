@@ -88,39 +88,20 @@ They are moderately likely to make decisions that are based in logic and can be 
 OCCUPATIONAL TYPES
 Persuader | Doer
 
-Ned is likely to enjoy roles that are entrepreneurial, involve working with people, data, selling, managing, persuading leading and influencing others. they may also enjoy active jobs that produce tangible results, and enjoy manual and physically independent active worK
+Summary
+
+I am likely to enjoy roles that are entrepreneurial, involve working with people, data, selling, managing, persuading leading and influencing others. I may also enjoy active jobs that produce tangible results, and enjoy manual and physically independent active work. I will need to focus on managing my interpersonal skills to ensure I work well in a team and can be flexible with colleagues as well as not coming across as insenitive. I believe my test results show that I am well suited to a career in Data/ Analytics and have the temperment and drive to succeed in these roles.
+
+#Project
+
+
 
 You can see more of what I'm all about from [Neds Instagram Profile](https://instagram.com/nedholland) 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hollandned/Clappback/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
